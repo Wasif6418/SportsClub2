@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "53328246536",
+    "firebase_url": "https://sportsclub-1b62c.firebaseio.com",
+    "project_id": "sportsclub-1b62c",
+    "storage_bucket": "sportsclub-1b62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53328246536:android:ec8e40b41b7266532a1ebd",
+        "android_client_info": {
+          "package_name": "com.example.sportsclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53328246536-otuo3crk1feou1fasnoijse85h0p1jpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportsclub",
+            "certificate_hash": "bb220b02d13d9775e35213163082d226ef87305f"
+          }
+        },
+        {
+          "client_id": "53328246536-806tt18k3n00bbirof63cpj70jo774bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEhcNnTjF4Tyj5wcewNipPa6BOLIQ-js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53328246536-806tt18k3n00bbirof63cpj70jo774bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
